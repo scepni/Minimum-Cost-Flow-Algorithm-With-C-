@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "endusukmaliyet_yontemi", "endusukmaliyet_yontemi.csproj", "{DA3CD055-F29D-4299-902F-93BC6BED4650}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Çözüm Öğeleri", "Çözüm Öğeleri", "{BCE85DCF-B329-4CD6-BE50-59DA3CE1E41E}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.vb = Class1.vb
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{46B6B6A4-9D6A-4DE7-9710-958B2A44FC91}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA3CD055-F29D-4299-902F-93BC6BED4650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3CD055-F29D-4299-902F-93BC6BED4650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3CD055-F29D-4299-902F-93BC6BED4650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3CD055-F29D-4299-902F-93BC6BED4650}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49890D9D-D6F1-4AFA-AE92-3DEE3F34CBF6}
+	EndGlobalSection
+EndGlobal
